@@ -1,0 +1,9 @@
+# Never leave this file empty
+domain.example.abc
+api.devices.cloudflare.com
+engage.cloudflareclient.com
+zero-trust-client.cloudflareclient.com
+notifications.cloudflareclient.com
+cloudflareportal.com
+cloudflareok.com
+cloudflarecp.com
